@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NghiaNim
-- 👀 I’m interested in AI, machine learning, and theoretical computer science
-- 🌱 I’m currently learning deep learning methods and their applications
-- 💞️ I’m looking to collaborate on any software development project and integrating machine learning
+- 👀 I’m interested in AI, machine learning, and theoretical computer science.
+- 🌱 I’m currently learning and researching machine learning and building softwares.
+- 💞️ I’m looking to collaborate on any software development project and machine learning.
 - 📫 How to reach me: nghia.nim@nyu.edu / +971 50 2718 206
 
 <!---

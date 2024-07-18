@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NghiaNim
-- 👀 I’m interested in full-stack development and machine learning.
-- 🌱 I’m currently building cool projects using machine learning and software engineering.
-- 💞️ I’m looking to collaborate on any software development project and machine learning.
+- 👀 I’m interested in quantitative trading and AI.
+- 🌱 I’m currently building infrastructure for trading.
+- 💞️ I’m looking to collaborate on trading projects.
 - 📫 How to reach me: nghia.nim@nyu.edu / +1 (929) 487-4186
 
 <!---
